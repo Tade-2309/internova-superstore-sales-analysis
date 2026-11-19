@@ -14,5 +14,3 @@ The work documented so far includes:
 - Interactive slicers for Ship Mode, Order Year, Ship Year and Region.
 
 The dashboard results and interpretation cautions are recorded in the root README and `documentation/analysis_questions.md`.
-
-**Workbook upload pending:** the workbook itself has not yet been added to this repository.
